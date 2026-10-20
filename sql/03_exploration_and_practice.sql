@@ -74,7 +74,7 @@ FROM RTT_Waiting_Times
 WHERE Treatment_Function_Name !='Total'
     AND RTT_Part_Description = 'Incomplete Pathways'
 GROUP BY Provider_Org_Name
-ORDER BY OverAYearWaiting DESC;*?
+ORDER BY OverAYearWaiting DESC;*/
 
 /*Level 5 — Trends (once you load a second month's data)
 
