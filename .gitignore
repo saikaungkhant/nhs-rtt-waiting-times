@@ -1,0 +1,13 @@
+# Raw NHS extracts are large (about 78 MB each). Download them from NHS England instead.
+*.csv
+*.zip
+*.bak
+*.mdf
+*.ldf
+# Power BI temp files
+*.pbi
+.pbi/
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
