@@ -3,6 +3,11 @@
 A personal data analysis project using real NHS England waiting list data.
 SQL Server is used to load, clean and query the data, and Power BI to visualise it.
 
+## Dashboard preview
+![Power BI dashboard showing the top trusts by patients waiting over one year, with a month slicer](images/dashboard_may_2026.png)
+
+Interactive Power BI report: choose a month with the slicer and the Top N trusts chart and its title update. The screenshot shows May 2026. See Known limitations for how the figures were calculated.
+
 ## Question
 Which NHS trusts and specialties have the most patients still waiting 52 weeks or more,
 and how does that change across months?
